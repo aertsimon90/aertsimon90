@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=aertsimon90&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 🚀 About Me
+<h3> 🚀 About Me </h3>
 - 🔭 Currently working on **LeCatchu** and **Opaqy** projects  
 - 🌱 Learning **Advanced Cryptography** and **Network Security**  
 - 👯 Open to collaborations on **cyber security tools** and **open source encryption projects**  
@@ -15,7 +15,7 @@
 - 📫 Reach me at **simon.scap090@gmail.com**
 - 😄 Pronouns: **he/him**
 
-### 🛠 Tech Stack & Tools
+<h3> 🛠 Tech Stack & Tools </h3>
 <p align="left">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
