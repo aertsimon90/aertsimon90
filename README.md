@@ -8,7 +8,7 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 Currently working on **LeCatchu** and **Opaqy** projects  
+- 🔭 Currently working on **LeCatchu** and **OPAQY** projects  
 - 🌱 Learning **Advanced Cryptography** and **Network Security**  
 - 👯 Open to collaborations on **cyber security tools** and **open source encryption projects**  
 - 💬 Ask me about **Python obfuscation**, **social engineering**, or **secure protocols**  
