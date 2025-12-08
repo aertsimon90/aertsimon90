@@ -1,6 +1,6 @@
 <img src="https://github.com/aertsimon90/aertsimon90/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
 
-<h1 align="center">Hey 👋, I'm Simon</h1>
+<h1 align="center">I'm Simon</h1>
 <h3 align="center">Cyber Security Expert & Professional Social Engineer</h3>
 
 <p align="center">
