@@ -12,7 +12,7 @@
 - 🌱 Learning **Advanced Cryptography** and **Network Security**  
 - 👯 Open to collaborations on **cyber security tools** and **open source encryption projects**  
 - 💬 Ask me about **Python obfuscation**, **social engineering**, or **secure protocols**  
-- 📫 Reach me at **simon.scap090@gmail.com** (or add your email)  
+- 📫 Reach me at **simon.scap090@gmail.com**
 - 😄 Pronouns: **he/him**
 
 ### 🛠 Tech Stack & Tools
