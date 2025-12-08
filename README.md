@@ -26,16 +26,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-
-  <br>
-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-  <br>
-  
   <img src="https://img.shields.io/badge/Metasploit-0DB7ED?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Nmap-4286F4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
@@ -49,9 +43,6 @@
   <img src="https://img.shields.io/badge/Dirbuster-FF4F00?style=for-the-badge&logo=dirbuster&logoColor=white" alt="Dirbuster"/>
   <img src="https://img.shields.io/badge/Nessus-E46826?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus"/>
   <img src="https://img.shields.io/badge/OpenVAS-009900?style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS"/>
-
-  <br>
-
   <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
   <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL"/>
   <img src="https://img.shields.io/badge/GPG-009900?style=for-the-badge&logo=gnupg&logoColor=white" alt="GPG"/>
