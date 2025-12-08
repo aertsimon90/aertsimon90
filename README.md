@@ -17,78 +17,32 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash/Shell" width="40" height="40"/>
-  </a>
-  <a href="https://cryptography.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cryptography.svg" alt="Cryptography" width="40" height="40"/>
-  </a>
-  <a href="https://www.openssl.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openssl.svg" alt="OpenSSL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" alt="Metasploit" width="40" height="40"/>
-  </a>
-  <a href="https://nmap.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" alt="Nmap" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="Burp Suite" width="40" height="40"/>
-  </a>
-  <a href="https://sqlmap.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlmap.svg" alt="SQLMap" width="40" height="40"/>
-  </a>
-  <a href="https://cirt.net/Nikto" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nikto.svg" alt="Nikto" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/OJ/gobuster" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gobuster.svg" alt="Gobuster" width="40" height="40"/>
-  </a>
-  <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/johntheripper.svg" alt="John the Ripper" width="40" height="40"/>
-  </a>
-  <a href="https://aircrack-ng.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aircrackng.svg" alt="Aircrack-ng" width="40" height="40"/>
-  </a>
-  <a href="https://hashcat.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" alt="Hashcat" width="40" height="40"/>
-  </a>
-  <a href="https://www.tenable.com/products/nessus" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nessus.svg" alt="Nessus" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-0DB7ED?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nmap-4286F4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=database&logoColor=white" alt="SQLMap"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=key&logoColor=white" alt="John"/>
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashnode&logoColor=00C7B7" alt="Hashcat"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-DE3241?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng"/>
+  <img src="https://img.shields.io/badge/Nessus-E46826?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Gobuster-00ACE6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Gobuster"/>
 </p>
 
 ### 📊 GitHub Stats
