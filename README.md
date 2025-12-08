@@ -39,10 +39,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash/Shell" width="40" height="40"/>
   </a>
   <a href="https://cryptography.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptocurrency/cryptocurrency-original.svg" alt="Cryptography" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cryptography.svg" alt="Cryptography" width="40" height="40"/>
   </a>
   <a href="https://www.openssl.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openssl/openssl-original.svg" alt="OpenSSL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openssl.svg" alt="OpenSSL" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -57,37 +57,37 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://www.metasploit.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Metasploit_logo_and_wordmark.svg" alt="Metasploit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" alt="Metasploit" width="40" height="40"/>
   </a>
   <a href="https://nmap.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devhomeart/nmap-logo/master/nmap-logo.svg" alt="Nmap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" alt="Nmap" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="Burp Suite" width="40" height="40"/>
   </a>
   <a href="https://sqlmap.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/0e6c2b8b9a3d9a5d9f3a4b0d4a9b5c6d7e8f9a0b/sqlmap.svg" alt="SQLMap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlmap.svg" alt="SQLMap" width="40" height="40"/>
   </a>
   <a href="https://cirt.net/Nikto" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nikto/nikto-original.svg" alt="Nikto" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nikto.svg" alt="Nikto" width="40" height="40"/>
   </a>
   <a href="https://github.com/OJ/gobuster" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gobuster/gobuster-original.svg" alt="Gobuster" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gobuster.svg" alt="Gobuster" width="40" height="40"/>
   </a>
-  <a href="https://johntheripper.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/john/john-original.svg" alt="John the Ripper" width="40" height="40"/>
+  <a href="https://www.openwall.com/john/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/johntheripper.svg" alt="John the Ripper" width="40" height="40"/>
   </a>
   <a href="https://aircrack-ng.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aircrackng/aircrackng-original.svg" alt="Aircrack-ng" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aircrackng.svg" alt="Aircrack-ng" width="40" height="40"/>
   </a>
   <a href="https://hashcat.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hashcat/hashcat-original.svg" alt="Hashcat" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" alt="Hashcat" width="40" height="40"/>
   </a>
-  <a href="https://www.nessus.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nessus/nessus-original.svg" alt="Nessus" width="40" height="40"/>
+  <a href="https://www.tenable.com/products/nessus" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nessus.svg" alt="Nessus" width="40" height="40"/>
   </a>
 </p>
 
