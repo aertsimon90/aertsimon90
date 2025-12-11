@@ -1,6 +1,6 @@
 <img src="https://github.com/aertsimon90/aertsimon90/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Hegarty&size=50&pause=1000&color=F78E38&center=true&vCenter=true&width=1024&height=120&lines=I'm+Simon" alt="Simon Text" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Hegarty&size=64&pause=1000&color=F78E38&center=true&vCenter=true&width=1024&height=120&lines=I'm+Simon" alt="Simon Text" /></a>
 <h3 align="center">Cyber Security Expert & Professional Social Engineer</h3>
 
 <p align="center">
