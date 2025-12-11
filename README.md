@@ -53,6 +53,7 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aertsimon90&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Simon GitHub Stats" height="180"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aertsimon90&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aertsimon90&theme=tokyonight&no-bg=true&column=3" alt="GitHub Trophies" height="180"/>
 </p>
 
 ### ✍️ Developer's Note
