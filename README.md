@@ -1,6 +1,6 @@
 <img src="https://github.com/aertsimon90/aertsimon90/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E38&width=435&lines=I'm+Simon)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E38&center=true&width=435&lines=I'm+Simon" alt="Typing SVG" /></a>
 <h3 align="center">Cyber Security Expert & Professional Social Engineer</h3>
 
 <p align="center">
