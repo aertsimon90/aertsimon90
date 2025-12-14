@@ -17,7 +17,7 @@
 
 ### ⭐ Check This
 
-My Favorite Project: [LeCatchu - Cryptography Engine](https://github.com/aertsimon90/LeCatchu)
+My Favorite Project: [LeCatchu](https://github.com/aertsimon90/LeCatchu)
 
 ### 🛠 Tech Stack & Tools </h3>
 <p align="left">
