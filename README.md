@@ -17,7 +17,7 @@
 
 ### ⭐ Check This
 
-Favorite: (LeCatchu)[https://github.com/aertsimon90/LeCatchu]
+Favorite: [LeCatchu](https://github.com/aertsimon90/LeCatchu)
 
 ### 🛠 Tech Stack & Tools </h3>
 <p align="left">
