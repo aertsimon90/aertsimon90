@@ -15,10 +15,6 @@
 - 📫 Reach me at **simon.scap090@gmail.com**
 - 😄 Pronouns: **he/him**
 
-### ⭐ Check This
-
-My Favorite Project: [LeCatchu](https://github.com/aertsimon90/LeCatchu)
-
 ### 🛠 Tech Stack & Tools </h3>
 <p align="left">
 
