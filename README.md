@@ -8,7 +8,7 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 Currently working on **Zevihanthosa**, **ElongatorLib** and **LehnLM** projects  
+- 🔭 Currently working on **Zevihanthosa** project 
 - 🌱 Learning **Advanced Cryptography** and **AI Neural Network**  
 - 👥 Open to collaborations on **cyber security tools** and **open source encryption projects**  
 - 💬 Ask me about **Cryptography**, **social engineering**, **artifical intelligence** or **secure protocols**  
